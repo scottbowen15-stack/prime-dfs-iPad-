@@ -1,0 +1,9 @@
+{
+  "name": "PRIME DFS iPad Edition",
+  "short_name": "PRIME DFS",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#101827",
+  "description": "Free local-first DraftKings CFB-first, NHL, and NFL player review and candidate lineup research tool"
+}
