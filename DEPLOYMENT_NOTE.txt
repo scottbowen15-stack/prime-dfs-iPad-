@@ -1,0 +1,5 @@
+PRIME V8.96 iPad frontend — Rerun 76
+
+Upload the six files in this ZIP to the ROOT of the existing GitHub repository prime-dfs-iPad- and commit to main. Extract this ZIP first; do not upload the ZIP itself as the website root.
+
+IMPORTANT: this package is the static frontend only. The PRIME optimizer API is a Python/SciPy service in ipad_server/prime_ipad_api.py and is NOT executed by a static Cloudflare Worker. Keep the existing Cloudflare Worker dawn-darkness-1345 intact. The frontend needs a separately running HTTPS Python API backend; set the API URL in the app and configure the backend CORS origin to the exact app origin. Never commit an API token or secret.

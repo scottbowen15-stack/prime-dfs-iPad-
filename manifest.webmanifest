@@ -1,0 +1,9 @@
+{
+  "name": "PRIME V8.96 iPad",
+  "short_name": "PRIME",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#10151d",
+  "theme_color": "#10151d",
+  "description": "iPad-first offline DFS workflow using manually supplied data."
+}
